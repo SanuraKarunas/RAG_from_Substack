@@ -6,9 +6,6 @@
 - промпты, схемы, прочее: langchain
 - парсинг статей с Substack: substack_api, beautifulsoup
 
-Демо:
-<video src="demo.mp4" width="600" controls></video>
-
 ## Процесс:
 1. Парсинг статей с substack
    - Берется таргетный канал на Substack (в данном случае 'https://gonzoml.substack.com/'), находится автор канала
