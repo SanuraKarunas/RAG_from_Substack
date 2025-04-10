@@ -7,7 +7,7 @@
 - парсинг статей с Substack: substack_api, beautifulsoup
 
 Демо:
-![Demo](demo.mp4)
+<video src="demo.mp4" width="600" controls></video>
 
 ## Процесс:
 1. Парсинг статей с substack
