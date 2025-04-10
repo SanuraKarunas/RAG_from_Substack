@@ -1,0 +1,16 @@
+aiogram~=3.19.0
+faiss_cpu~=1.10.0
+huggingface_hub~=0.17.3
+langchain~=0.3.23
+langchain_community~=0.3.21
+langchain_core~=0.3.51
+langchain_text_splitters~=0.3.8
+numpy~=2.2.4
+pydantic<2.11
+python-dotenv~=1.1.0
+sentence_transformers~=2.2.2
+torch~=2.6.0
+transformers~=4.34.1
+pypdf~=5.4.0
+substack-api~=1.0.2
+BeautifulSoup~=3.2.2
